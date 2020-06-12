@@ -1,0 +1,4 @@
+{
+  "extends": ["standard", "plugin:vue/recommended"],
+  "plugins": ["import", "vue", "html"]
+}
